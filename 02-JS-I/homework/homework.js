@@ -92,7 +92,7 @@ function mayorQueCincuenta(num) {
   if(num > 50) { 
     return true;
   } else {
-    retur false;
+    return false;
  }
 }
 
