@@ -268,7 +268,7 @@ module.exports = {
   sonIguales,
   menosQueNoventa,
   mayorQueCincuenta,
-  suma,
+  sumar,
   resta,
   divide,
   multiplica,
